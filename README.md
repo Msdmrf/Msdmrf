@@ -29,12 +29,12 @@
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-get_next_line">Get Next Line</a></b></td>
-      <td>File Descriptors, Buffer Management, Dynamic Memory Allocation, Multi-FD Support</td>
+      <td>File Descriptors, Buffered I/O, Static State, Dynamic Memory Allocation, Newline Parsing, Remainder (stash) Handling, Multi-FD Support (Bonus)</td>
       <td>125/100<br>⭐</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-Born2beroot">Born2beroot</a></b></td>
-      <td>HERE</td>
+      <td>Virtualization, Debian Sysadmin, SSH Hardening, Sudo Policies & Auditing, systemd Services, UFW Firewall, Monitoring & Logging (Bash)</td>
       <td>125/100<br>⭐⭐</td>
     </tr>
     <tr>
