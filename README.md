@@ -3,7 +3,7 @@
   &nbsp;
   <img
     align="middle"
-    src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=25&duration=3000&pause=500&color=F7F7F7&vCenter=true&width=435&lines=Hello%21%20Welcome%20to%20my%20GitHub%21"
+    src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=25&duration=3000&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Hello%21%20Welcome%20to%20my%20GitHub%21"
     alt="Hello! Welcome to my GitHub!"
   />
 </p>
