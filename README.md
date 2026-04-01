@@ -15,21 +15,20 @@
 - 
 
 ## Projects
-<h2 align="left">Projects</h2>
-
 <div align="center">
-  <a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-libft">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Msdmrf&repo=42-Lisbon-Common-Core-libft" alt="42-Lisbon-Common-Core-libft" />
-  </a>
-  <a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-libft_enhanced">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Msdmrf&repo=42-Lisbon-Common-Core-libft_enhanced" alt="42-Lisbon-Common-Core-libft_enhanced" />
-  </a>
-  <a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-ft_printf">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Msdmrf&repo=42-Lisbon-Common-Core-ft_printf" alt="42-Lisbon-Common-Core-ft_printf" />
-  </a>
-  <a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-get_next_line">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Msdmrf&repo=42-Lisbon-Common-Core-get_next_line" alt="42-Lisbon-Common-Core-get_next_line" />
-  </a>
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Concepts</th>
+      <th>Grade</th>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-libft">Libft</a></b></td>
+      <td>Custom C Library, Memory Management, Linked Lists</td>
+      <td>125/100</td>
+    </tr>
+    <!-- add more rows -->
+  </table>
 </div>
 
 ## Contact Info
