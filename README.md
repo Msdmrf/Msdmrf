@@ -62,16 +62,16 @@
 
 ## Contact Info
 <p>
-  <a href="https://www.linkedin.com/in/msdmrf/" target="_blank" rel="noopener noreferrer"
-     style="display:inline-block; line-height:0;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="LinkedIn" style="display:block;">
+  <a href="https://www.linkedin.com/in/msdmrf/" target="_blank" rel="noopener noreferrer" tabindex="-1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;
-  <a href="mailto:miguel.matos.fernandes1@gmail.com"
-     style="display:inline-block; line-height:0;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="Email" style="display:block;">
+  <a href="mailto:miguel.matos.fernandes1@gmail.com" tabindex="-1">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  &nbsp;
+  <a href="https://github.com/Msdmrf" target="_blank" rel="noopener noreferrer" tabindex="-1">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
   <!-- &nbsp;
