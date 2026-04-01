@@ -15,7 +15,22 @@
 - 
 
 ## Projects
--
+<h2 align="left">Projects</h2>
+
+<div align="center">
+  <a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-libft">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Msdmrf&repo=42-Lisbon-Common-Core-libft" alt="42-Lisbon-Common-Core-libft" />
+  </a>
+  <a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-libft_enhanced">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Msdmrf&repo=42-Lisbon-Common-Core-libft_enhanced" alt="42-Lisbon-Common-Core-libft_enhanced" />
+  </a>
+  <a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-ft_printf">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Msdmrf&repo=42-Lisbon-Common-Core-ft_printf" alt="42-Lisbon-Common-Core-ft_printf" />
+  </a>
+  <a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-get_next_line">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Msdmrf&repo=42-Lisbon-Common-Core-get_next_line" alt="42-Lisbon-Common-Core-get_next_line" />
+  </a>
+</div>
 
 ## Contact Info
 <p>
