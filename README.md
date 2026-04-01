@@ -25,12 +25,12 @@
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-libft">Libft</a></b></td>
       <td>Custom C Library, Memory Management, Linked Lists</td>
-      <td>125/100</td>
+      <td>125/100 ⭐</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-get_next_line">Get Next Line</a></b></td>
       <td>File Descriptors, Buffer Management, Dynamic Memory Allocation, Multi-FD Support</td>
-      <td>125/100</td>
+      <td>125/100 ⭐</td>
     </tr>
   </table>
 </div>
