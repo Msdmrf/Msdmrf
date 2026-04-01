@@ -9,9 +9,7 @@
 </p>
 
 ## About Me
-I'm a developer driven by the thrill of problem-solving — whether it's building something from scratch or architecting clean, well-structured solutions. I believe your workspace is a mirror of your mind, so I keep both organized.
-Code isn't just work for me, it's a craft, and I take pride in writing it with intention and clarity. When I step away from the keyboard, you'll find me lost in music or counting down the minutes until I can get moving — any sport, any season. 
-That balance between the precision of coding and the freedom of creativity and movement is what keeps me sharp. 
+I'm a developer driven by the thrill of problem-solving — whether it's building something from scratch or architecting clean, well-structured solutions. I believe your workspace is a mirror of your mind, so I keep both organized. Code isn't just work for me, it's a craft, and I take pride in writing it with intention and clarity. When I step away from the keyboard, you'll find me lost in music or counting down the minutes until I can get moving — any sport, any season. That balance between the precision of coding and the freedom of creativity and movement is what keeps me sharp. 
 
 ## Tech Stack
 <div align="center">
@@ -50,47 +48,47 @@ That balance between the precision of coding and the freedom of creativity and m
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-Libft">Libft</a></b></td>
-      <td>Custom C Library, Memory Management, Linked Lists</td>
+      <td>C Standard Library Recreation · String & Memory Manipulation · Linked List Operations</td>
       <td>125/100<br>⭐</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-get_next_line">Get Next Line</a></b></td>
-      <td>File Descriptors, Buffered I/O, Static State, Dynamic Memory Allocation, Newline Parsing, Remainder (stash) Handling, Multi-FD Support</td>
+      <td>File Descriptor Management · Static Variables · Buffered Reading · Dynamic Memory Allocation</td>
       <td>125/100<br>⭐</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-Born2beroot">Born2beroot</a></b></td>
-      <td>Virtualization, Debian Sysadmin, SSH Hardening, Sudo Policies & Auditing, systemd Services, UFW Firewall, Monitoring & Logging (Bash)</td>
+      <td>Linux System Administration · Virtualization · SSH & Firewall Configuration · User & Group Policies · Bash Monitoring Scripts</td>
       <td>125/100<br>⭐⭐</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-ft_printf">Printf</a></b></td>
-      <td>Variadic Functions, Format String Parsing, Integer/Hex Conversion, Pointer Formatting, Error Handling</td>
+      <td>Variadic Functions · Format String Parsing · Type Conversion (Integer, Hex, Pointer) · Modular Output Handling</td>
       <td>100/100<br>⭐⭐</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-push_swap">Push Swap</a></b></td>
-      <td>Linked Lists, Constrained Sorting Operations, Indexing/Ranking for Bitwise Radix Sort, Small-Case Optimizations, Memory Management</td>
+      <td>Algorithm Optimization · Stack-Based Sorting · Bitwise Radix Sort · Complexity Reduction</td>
       <td>90/100<br>⭐</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-so_long">So Long</a></b></td>
-      <td>MLX Window Rendering, 2D Grid/Tile Engine, File I/O Map Loader, Rule Validation (walls/player/exit/collectibles), DFS Flood-Fill Reachability, Frame-based Player/Enemy Sprites</td>
+      <td>2D Game Development · MiniLibX Graphics · Tile-Based Map Rendering · Pathfinding Validation (Flood Fill) · Sprite Animation</td>
       <td>125/100<br>⭐⭐⭐</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-pipex">Pipex</a></b></td>
-      <td>Unix Pipelines, Process Management, File Descriptor Redirection, Executing Commands, Environment/PATH Handling & Error Handling</td>
+      <td>Unix Pipelines · Process Creation (fork/exec) · File Descriptor Redirection · PATH Resolution · Error Management</td>
       <td>100/100<br>⭐</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-minishell">Minishell</a></b></td>
-      <td>Readline Interactive Shell, Lexer/Parser, Builtins, Environment Management, Pipes & Redirections, Heredoc, Signals, Process Execution</td>
+      <td>Shell Reimplementation · Lexing & Parsing · Built-in Commands · Pipes & Redirections · Heredoc · Signal Handling · Process Management</td>
       <td>101/100<br>⭐⭐⭐</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-Philosophers">Philosophers</a></b></td>
-      <td>Multithreading, Mutex Synchronization, Race Conditions & Deadlock Avoidance, Monitoring/Starvation Detection, Multiprocessing, Named Semaphores</td>
+      <td>Multithreading (pthreads) · Mutex Synchronization · Deadlock & Starvation Prevention · Multiprocessing · Semaphore Management</td>
       <td>125/100<br>⭐⭐</td>
     </tr>
   </table>
