@@ -25,9 +25,6 @@
       <td>
         <img src="https://skillicons.dev/icons?i=git,github" width="70%" alt="Tools: Git, GitHub" />
       </td>
-      <td>
-        <sub>VM / Virtualization</sub>
-      </td>
     </tr>
   </table>
 </div>
