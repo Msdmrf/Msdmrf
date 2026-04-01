@@ -39,32 +39,32 @@
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-ft_printf">Printf</a></b></td>
-      <td>HERE</td>
+      <td>Variadic Functions, Format String Parsing, Integer/Hex Conversion, Pointer Formatting, Error Handling</td>
       <td>100/100<br>⭐⭐</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-push_swap">Push Swap</a></b></td>
-      <td>HERE</td>
+      <td>Linked Lists, Constrained Sorting Operations, Indexing/Ranking for Bitwise Radix Sort, Small-Case Optimizations, Memory Management</td>
       <td>90/100<br>⭐</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-so_long">So Long</a></b></td>
-      <td>HERE</td>
+      <td>MLX Window Rendering, 2D Grid/Tile Engine, File I/O Map Loader, Rule Validation (walls/player/exit/collectibles), DFS Flood-Fill Reachability, Frame-based Player/Enemy Sprites, On-screen Move Counter</td>
       <td>125/100<br>⭐⭐⭐</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-pipex">Pipex</a></b></td>
-      <td>HERE</td>
+      <td>Unix Pipelines, Process Management, File Descriptor Redirection, Executing Commands, Environment/PATH Handling & Error Handling</td>
       <td>100/100<br>⭐</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-minishell">Minishell</a></b></td>
-      <td>HERE</td>
+      <td>Readline Interactive Shell, Lexer/Parser, Builtins, Environment Management, Pipes & Redirections, Heredoc, Signals, Process Execution</td>
       <td>101/100<br>⭐⭐⭐</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-Philosophers">Philosophers</a></b></td>
-      <td>HERE</td>
+      <td>Threads (pthreads), Mutex Synchronization, Deadlock Avoidance, Monitoring/Starvation Detection, Processes (Bonus), Named Semaphores (Bonus)</td>
       <td>125/100<br>⭐⭐</td>
     </tr>
   </table>
