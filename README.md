@@ -18,14 +18,14 @@
 <div align="center">
   <table>
     <tr>
-      <th> Project </th>
+      <th>Project</th>
       <th>Concepts</th>
       <th>Grade</th>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-Libft">Libft</a></b></td>
       <td>Custom C Library, Memory Management, Linked Lists</td>
-      <td>125/100 ⭐</td>
+      <td>125/100<br>⭐</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-get_next_line">Get Next Line</a></b></td>
@@ -34,7 +34,7 @@
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-Born2beroot">Born2beroot</a></b></td>
-      <td>Virtualization, Debian Sysadmin, SSH Hardening, Sudo Policies & Auditing, systemd Services, UFW Firewall, Monitoring & Logging (Bash)</td>
+      <td>HERE</td>
       <td>125/100 ⭐⭐</td>
     </tr>
     <tr>
