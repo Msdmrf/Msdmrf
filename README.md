@@ -9,21 +9,10 @@
 </p>
 
 ## About Me
-- Write a short intro about who you are
-- What you’re working on / learning
-- What kind of roles or projects you’re interested in
+- 
 
 ## Tech Stack
-<!-- Option A: simple text -->
-- Languages: 
-- Frameworks:
-- Tools:
-
-<!-- Option B: badges (example) -->
-<!--
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
--->
+- 
 
 ## Contact Info
 <p>
