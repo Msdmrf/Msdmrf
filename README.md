@@ -25,27 +25,27 @@
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-libft">Libft</a></b></td>
       <td>Custom C Library, Memory Management, Linked Lists</td>
-      <td>125/100 ⭐</td>
+      <td>125/100     ⭐</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-get_next_line">Get Next Line</a></b></td>
       <td>File Descriptors, Buffer Management, Dynamic Memory Allocation, Multi-FD Support</td>
-      <td>125/100 ⭐</td>
+      <td>125/100     ⭐</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-Born2beroot">Born2beroot</a></b></td>
       <td>HERE</td>
-      <td>125/100 ⭐⭐</td>
+      <td>125/100   ⭐⭐</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-ft_printf">Printf</a></b></td>
       <td>HERE</td>
-      <td>100/100 ⭐⭐</td>
+      <td>100/100   ⭐⭐</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-push_swap">Push Swap</a></b></td>
       <td>HERE</td>
-      <td>90/100 ⭐</td>
+      <td>90/100     ⭐</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-so_long">So Long</a></b></td>
@@ -55,7 +55,7 @@
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-pipex">Pipex</a></b></td>
       <td>HERE</td>
-      <td>100/100 ⭐</td>
+      <td>100/100     ⭐</td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-minishell">Minishell</a></b></td>
@@ -65,7 +65,7 @@
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-Philosophers">Philosophers</a></b></td>
       <td>HERE</td>
-      <td>125/100 ⭐⭐</td>
+      <td>125/100   ⭐⭐</td>
     </tr>
   </table>
 </div>
