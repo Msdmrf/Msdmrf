@@ -15,15 +15,18 @@
 <div align="center">
   <table>
     <tr>
-      <th>💻 Languages</th>
-      <th>🧰 Tools</th>
+      <th>Languages</th>
+      <th>Tools</th>
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=r,matlab,bash,c,python" width="80%" alt="Languages: R, Matlab, Bash, C, Python" />
+        <img src="https://skillicons.dev/icons?i=c,python,bash,matlab,r" width="80%" alt="Languages: C, Python, Bash, Matlab, R" />
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=git,github" width="70%" alt="Tools: Git, GitHub" />
+      </td>
+      <td>
+        <sub>VM / Virtualization</sub>
       </td>
     </tr>
   </table>
