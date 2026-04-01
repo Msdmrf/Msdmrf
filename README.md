@@ -23,7 +23,7 @@
       <th>Grade</th>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-libft">Libft</a></b></td>
+      <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-Libft">Libft</a></b></td>
       <td>Custom C Library, Memory Management, Linked Lists</td>
       <td>125/100 ⭐</td>
     </tr>
@@ -34,7 +34,7 @@
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-Born2beroot">Born2beroot</a></b></td>
-      <td>HERE</td>
+      <td>Virtualization, Debian Sysadmin, SSH Hardening, Sudo Policies & Auditing, systemd Services, UFW Firewall, Monitoring & Logging (Bash)</td>
       <td>125/100 ⭐⭐</td>
     </tr>
     <tr>
