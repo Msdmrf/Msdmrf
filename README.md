@@ -15,7 +15,7 @@
 - 
 
 ## 42 Lisbon
-<div align="center">
+<div align="left">
   <table>
     <tr>
       <th>Project</th>
