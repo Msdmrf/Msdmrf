@@ -29,7 +29,7 @@
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-get_next_line">Get Next Line</a></b></td>
-      <td>File Descriptors, Buffered I/O, Static State, Dynamic Memory Allocation, Newline Parsing, Remainder (stash) Handling, Multi-FD Support (Bonus)</td>
+      <td>File Descriptors, Buffered I/O, Static State, Dynamic Memory Allocation, Newline Parsing, Remainder (stash) Handling, Multi-FD Support</td>
       <td>125/100<br>⭐</td>
     </tr>
     <tr>
@@ -49,7 +49,7 @@
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-so_long">So Long</a></b></td>
-      <td>MLX Window Rendering, 2D Grid/Tile Engine, File I/O Map Loader, Rule Validation (walls/player/exit/collectibles), DFS Flood-Fill Reachability, Frame-based Player/Enemy Sprites, On-screen Move Counter</td>
+      <td>MLX Window Rendering, 2D Grid/Tile Engine, File I/O Map Loader, Rule Validation (walls/player/exit/collectibles), DFS Flood-Fill Reachability, Frame-based Player/Enemy Sprites</td>
       <td>125/100<br>⭐⭐⭐</td>
     </tr>
     <tr>
@@ -64,7 +64,7 @@
     </tr>
     <tr>
       <td><b><a href="https://github.com/Msdmrf/42-Lisbon-Common-Core-Philosophers">Philosophers</a></b></td>
-      <td>Threads (pthreads), Mutex Synchronization, Deadlock Avoidance, Monitoring/Starvation Detection, Processes (Bonus), Named Semaphores (Bonus)</td>
+      <td>Multithreading, Mutex Synchronization, Race Conditions & Deadlock Avoidance, Monitoring/Starvation Detection, Multiprocessing, Named Semaphores</td>
       <td>125/100<br>⭐⭐</td>
     </tr>
   </table>
