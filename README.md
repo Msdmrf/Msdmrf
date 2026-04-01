@@ -18,7 +18,7 @@
 <div align="center">
   <table>
     <tr>
-      <th>Project</th>
+      <th> Project </th>
       <th>Concepts</th>
       <th>Grade</th>
     </tr>
