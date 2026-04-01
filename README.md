@@ -24,12 +24,12 @@
         <img src="https://skillicons.dev/icons?i=c,python,bash,matlab,r" alt="C, Python, Bash, MATLAB, R" />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=linux,docker,git,github" alt="Linux, Docker, Git, GitHub" />
+        <img src="https://skillicons.dev/icons?i=linux,git,github,docker" alt="Linux, Git, GitHub, Docker" />
         <br><br>
         <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=vim,vscode,md" alt="Vim, VSCode, Markdown" />
+        <img src="https://skillicons.dev/icons?i=md,vim,latex,vscode" alt="Markdown, Vim, Latex, VSCode" />
         <br><br>
         <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" alt="GitKraken" />
         <img src="https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white" alt="Makefile" />
