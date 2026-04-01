@@ -1,5 +1,5 @@
 <p>
-  <img align="middle" src="https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="10%" />
+  <img align="middle" src="https://media.tenor.com/SNL9_xhZl9oAAAAj/waving-hand-joypixels.gif" width="6%" />
   &nbsp;
   <img
     align="middle"
