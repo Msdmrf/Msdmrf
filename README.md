@@ -16,14 +16,23 @@
   <table>
     <tr>
       <th>Languages</th>
-      <th>Tools</th>
+      <th>DevOps & OS</th>
+      <th>Editors & Tools</th>
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=c,python,bash,matlab,r" width="80%" alt="Languages: C, Python, Bash, Matlab, R" />
+        <img src="https://skillicons.dev/icons?i=c,python,bash,matlab,r&perline=3" alt="C, Python, Bash, MATLAB, R" />
       </td>
       <td>
-        <img src="https://skillicons.dev/icons?i=git,github" width="70%" alt="Tools: Git, GitHub" />
+        <img src="https://skillicons.dev/icons?i=linux,docker,git,github&perline=2" alt="Linux, Docker, Git, GitHub" />
+        <br><br>
+        <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=vim,vscode,md&perline=3" alt="Vim, VSCode, Markdown" />
+        <br><br>
+        <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white" alt="GitKraken" />
+        <img src="https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=gnu&logoColor=white" alt="Makefile" />
       </td>
     </tr>
   </table>
