@@ -8,6 +8,10 @@
   />
 </p>
 
+<p align="center">
+  <img src="./assets/LinkedIn_Banner_Animated.svg" alt="The Full Stack Symphony, by NokIA" width="100%" />
+</p>
+
 ## About Me
 I'm a developer driven by the thrill of problem-solving — whether it's building something from scratch or architecting clean, well-structured solutions. I believe your workspace is a mirror of your mind, so I keep both organized. Code isn't just work for me, it's a craft, and I take pride in writing it with intention and clarity. When I step away from the keyboard, you'll find me lost in music or counting down the minutes until I can get moving — any sport, any season. That balance between the precision of coding and the freedom of creativity and movement is what keeps me sharp. 
 
