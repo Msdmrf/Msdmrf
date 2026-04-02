@@ -6,7 +6,7 @@
 
 ## Why does this happen?
 This is a known quirk of how GitHub serves raw files! The issue comes down to content security headers.<br>
-When GitHub serves the SVG from  ```raw.githubusercontent.com```, it sends it with ```Content-Type: text/plain``` (or sometimes image/svg+xml but with a restrictive Content-Security-Policy header). This is a deliberate security measure to prevent SVGs from executing malicious scripts in the context of a GitHub domain.<br>
+When GitHub serves the SVG from  ```raw.githubusercontent.com```, it sends it with ```Content-Type: text/plain``` (or sometimes ```image/svg+xml``` but with a restrictive ```Content-Security-Policy header```). This is a deliberate security measure to prevent SVGs from executing malicious scripts in the context of a GitHub domain.<br>
 For example, the embedded PNG icons are all base64-encoded ```<image>``` elements with ```xlink:href="data:image/png;base64,..."``` attributes. When ```raw.githubusercontent.com``` serves the SVG with its restrictive CSP, the browser blocks those inline data URIs from loading as a security precaution — it treats them similarly to how it would treat embedded content that could be an attack vector.<br>
 That's why you would see the glowing circles (pure SVG shapes — no external/embedded resources) and the SMIL animations (also pure SVG) working fine, but the raster images vanish (the Full Stack and volleyball icons).
 
