@@ -106,3 +106,5 @@ I'm a developer driven by the thrill of problem-solving — whether it's buildin
   &nbsp;
   <a href="https://www.github.com/Msdmrf"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
+
+![Views](https://komarev.com/ghpvc/?username=msdmrf&style=for-the-badge&color=green)
